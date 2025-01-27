@@ -1,5 +1,6 @@
-# DSF-35.0_Data-Science_portfolio
-SIMPLE CLASSIFICATION OF IRIS PLANTS USING DECISION TREE CLASSIFIER
+# Simple Classification Of Iris Plants Using Decision Tree Classifier- Machine Learning
+
+## Description 
 
 ### goals
     1
