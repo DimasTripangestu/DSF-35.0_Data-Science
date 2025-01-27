@@ -1,2 +1,6 @@
 # DSF-35.0_Data-Science_portfolio
 DSF_Data Science
+SIMPLE CLASSIFICATION OF IRIS PLANTS USING DECISION TREE CLASSIFIER
+
+##goals
+##1
